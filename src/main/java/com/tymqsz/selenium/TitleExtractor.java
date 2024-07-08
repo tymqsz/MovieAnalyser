@@ -1,4 +1,4 @@
-package com.tymqsz;
+package com.tymqsz.selenium;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.*;
@@ -7,11 +7,11 @@ import java.util.*;
 import java.io.*;
 
 
-public class MovieExtractor {
+public class TitleExtractor {
     private WebDriver driver;
     private List<String> movieList;    
 
-    public MovieExtractor(WebDriver driver){
+    public TitleExtractor(WebDriver driver){
         this.driver = driver;
         movieList = new ArrayList<>();
         
@@ -26,7 +26,7 @@ public class MovieExtractor {
     }
 
     private void extractFromFile() throws Exception{
-        InputStream inputStream = MovieExtractor.class.getResourceAsStream("/movie_list.txt");
+        InputStream inputStream = TitleExtractor.class.getResourceAsStream("/movie_list.txt");
         if(inputStream == null)
             throw new Exception("NoInputStreamException");
 
