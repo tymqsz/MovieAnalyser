@@ -168,7 +168,7 @@ Three Billboards Outside Ebbing, Missouri;2017;Comedy Crime Drama;1h 55m;8.1;88;
 Trainspotting;1996;Drama;1h 33m;8.1;83;null;null;null;null;Danny Boyle;Ewan McGregorEwen BremnerJonny Lee Miller
 The Bridge on the River Kwai;1957;Adventure Drama War;2h 41m;8.1;88;null;null;null;null;David Lean;William HoldenAlec GuinnessJack Hawkins
 Klaus;2019;Animation Adventure Comedy;1h 36m;8.2;65;null;null;null;null;Sergio PablosCarlos Martínez López;Jason SchwartzmanJ.K. SimmonsRashida Jones
-Fargo;null;Crime Drama Thriller;TV-MA;8.9;null;null;null;null;null;Noah Hawley;null
+Fargo;1996;Crime Thriller;1h 38m;8.1;null;null;null;null;null;Joel CoenEthan Coen;William H. MacyFrances McDormandSteve Buscemi
 Catch Me If You Can;2002;Biography Crime Drama;2h 21m;8.1;75;null;null;null;null;Steven Spielberg;Leonardo DiCaprioTom HanksChristopher Walken
 Spider-Man: No Way Home;2021;Action Adventure Fantasy;2h 28m;8.2;71;null;null;null;null;Jon Watts;Tom HollandZendayaBenedict Cumberbatch
 Warrior;2011;Action Sport Drama;2h 20m;8.1;null;null;null;null;null;Gavin O'Connor;Tom HardyNick NolteJoel Edgerton
