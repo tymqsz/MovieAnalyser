@@ -171,7 +171,7 @@ Klaus;2019;Animation Adventure Comedy;1h 36m;8.2;65;null;null;null;null;Sergio P
 Fargo;null;Crime Drama Thriller;TV-MA;8.9;null;null;null;null;null;Noah Hawley;null
 Catch Me If You Can;2002;Biography Crime Drama;2h 21m;8.1;75;null;null;null;null;Steven Spielberg;Leonardo DiCaprioTom HanksChristopher Walken
 Spider-Man: No Way Home;2021;Action Adventure Fantasy;2h 28m;8.2;71;null;null;null;null;Jon Watts;Tom HollandZendayaBenedict Cumberbatch
-Warrior;null;Action Crime Drama;TV-MA;8.4;null;null;null;null;null;Jonathan Tropper;null
+Warrior;2011;Action Sport Drama;2h 20m;8.1;null;null;null;null;null;Gavin O'Connor;Tom HardyNick NolteJoel Edgerton
 Gran Torino;2008;Drama;1h 56m;8.1;73;null;null;null;null;Clint Eastwood;Clint EastwoodBee VangChristopher Carley
 Harry Potter and the Deathly Hallows: Part 2;2011;Adventure Family Fantasy;2h 10m;8.1;85;null;null;null;null;David Yates;Daniel RadcliffeEmma WatsonRupert Grint
 My Neighbor Totoro;1988;Animation Comedy Family;1h 26m;8.1;86;null;null;null;null;Hayao Miyazaki;Hitoshi TakagiNoriko HidakaChika Sakamoto
@@ -237,7 +237,7 @@ The Grapes of Wrath;1940;Drama;2h 9m;8.1;96;null;null;null;null;John Ford;Henry 
 Groundhog Day;1993;Comedy Drama Fantasy;1h 41m;8.0;72;null;null;null;null;Harold Ramis;Bill MurrayAndie MacDowellChris Elliott
 Amores Perros;2000;Drama Thriller;2h 34m;8.1;83;null;null;null;null;Alejandro G. Iñárritu;Emilio EchevarríaGael García BernalGoya Toledo
 The Iron Giant;1999;Animation Action Adventure;1h 26m;8.1;85;null;null;null;null;Brad Bird;Eli MarienthalHarry Connick Jr.Jennifer Aniston
-Rebecca;1940;Drama Mystery Romance;2h 10m;8.1;null;null;null;null;Alfret Hitchcock;Laurence OlivierJoan FontaineGeorge Sanders
+Rebecca;1940;Drama Mystery Romance;2h 10m;8.1;null;null;null;null;null;Alfret Hitchcock;Laurence OlivierJoan FontaineGeorge Sanders
 Cool Hand Luke;1967;Crime Drama;2h 7m;8.1;92;null;null;null;null;Stuart Rosenberg;Paul NewmanGeorge KennedyStrother Martin
 The Help;2011;Drama;2h 26m;8.1;62;null;null;null;null;Tate Taylor;Viola DavisEmma StoneOctavia Spencer
 It Happened One Night;1934;Comedy Romance;1h 45m;8.1;87;null;null;null;null;Frank Capra;Clark GableClaudette ColbertWalter Connolly
