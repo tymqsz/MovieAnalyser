@@ -5,35 +5,38 @@ import java.util.List;
 
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 
 public class Database {
     
-
-    private List<MovieRecord> imdbList, rtList, mcList, fullList;
+    private List<MovieRecord> imdbList, rtList, mcList;
 
     public Database(){
-        fullList = new ArrayList<>();
-
         imdbList= new ArrayList<>();
-        //rtList= new ArrayList<>();
-        //mcList= new ArrayList<>();
-
-        try{
-            readData("imdb.txt", imdbList);
-            //readData("rt.txt", rtList);
-            //readData("mc.txt", mcList);
-        }
-        catch(IOException e){
-            System.out.println(e);
-
-            return;
-        }
-        //mergeData();
+        rtList= new ArrayList<>();
+        mcList= new ArrayList<>();
     }
 
-    private void readData(String input_file, List<MovieRecord> list) throws IOException{
+    public void readData(Website website) throws IOException{
+        String input_file;
+        List<MovieRecord> list;
+        switch (website) {
+            case IMDB:
+                input_file = "imdb.txt";
+                list = imdbList;
+                break;
+            case RT:
+                input_file = "rt.txt";
+                list = rtList;
+                break;
+            case MC:
+                input_file = "mc.txt";
+                list = mcList;
+                break;
+            default:
+                throw new IOException("improper website");
+        }
+
         InputStream stream = Database.class.getResourceAsStream("/"+input_file);
         BufferedReader reader = new BufferedReader(new InputStreamReader(stream));
 
@@ -71,13 +74,15 @@ public class Database {
             throw new IOException(String.format("Incorrect data size: %d", list.size()));
     }
 
-    public void mergeData(){
-        Collections.sort(imdbList);
-        Collections.sort(rtList);
-        Collections.sort(mcList);
+    public List<MovieRecord> getImdbList(){
+        return imdbList;
+    }
 
-        for(int i = 0; i < 250; i++){
-            System.out.println(imdbList.get(i));
-        }
+    public List<MovieRecord> getRtList(){
+        return rtList;
+    }
+
+    public List<MovieRecord> getMcList(){
+        return mcList;
     }
 }

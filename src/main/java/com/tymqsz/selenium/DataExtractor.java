@@ -11,24 +11,13 @@ import java.io.*;
 public class DataExtractor {
     private WebDriver driver;
     private List<String> movies;
-    private List<MovieRecord> IMDBdata, RTdata, MCdata;
 
     public DataExtractor(WebDriver driver, List<String> movieList){
         this.driver = driver;
         movies = movieList;
-
-        IMDBdata = new ArrayList<>();
-        RTdata = new ArrayList<>();
-        MCdata = new ArrayList<>();
-
-        //extractIMDB();
-        
-        //extractRT();
-        
-        extractMC();
     }
 
-    private void extractIMDB(){
+    public void extractIMDB(){
         driver.manage().window().maximize();
         driver.get("https://www.imdb.com/");
         clickElement(byText("Decline"), Duration.ofSeconds(3));
@@ -130,7 +119,6 @@ public class DataExtractor {
                                     .setYear(year)
                                     .build();
                 
-                IMDBdata.add(crtData);   
                 crtData.dump(writer);                                 
             }
             catch(Exception e){
@@ -139,7 +127,7 @@ public class DataExtractor {
                 /* add empty movie record */
                 MovieRecord crtData = new MovieRecord.Builder().setTitle(movie).build();
 
-                IMDBdata.add(crtData);
+                crtData.dump(writer); 
             }
                           
         }
@@ -150,7 +138,7 @@ public class DataExtractor {
         
     }
 
-    private void extractRT(){
+    public void extractRT(){
         driver.manage().window().maximize();
         driver.get("https://www.rottentomatoes.com/");
 
@@ -188,8 +176,6 @@ public class DataExtractor {
                                                                .setRtMetaRating(audienceRating)
                                                                .build();
 
-                RTdata.add(crtData);
-                
                 crtData.dump(writer);
             }
             catch(Exception e){
@@ -197,8 +183,6 @@ public class DataExtractor {
                 
                 /* add empty movie record */
                 MovieRecord crtData = new MovieRecord.Builder().setTitle(movie).build();
-
-                RTdata.add(crtData);
 
                 crtData.dump(writer);
             }
@@ -210,14 +194,14 @@ public class DataExtractor {
         
     }
     
-    private void extractMC(){
+    public void extractMC(){
         driver.get("https://www.metacritic.com/");
         driver.manage().window().maximize();
         clickElement(byText("Reject All"), Duration.ofSeconds(3));
 
         BufferedWriter writer = null;
         try{
-            File output = new File("/home/tymqsz/movie_analyser/src/main/resources/mc.txt");
+            File output = new File("/home/tymqsz/movie_analyser/src/main/resources/mc_add.txt");
             writer = new BufferedWriter(new FileWriter(output));
         }
         catch(IOException e){
@@ -229,7 +213,7 @@ public class DataExtractor {
                 writeElement(By.xpath("//input[@placeholder='Search']"),
                              movie, Duration.ofSeconds(3));
                 clickElement(By.xpath("//*[@id=\"__layout\"]/div/div[2]/div[2]/div[2]/div[2]/div[1]/a/div[2]/p"), Duration.ofSeconds(3));
-
+                try{Thread.sleep(1_000);}catch(InterruptedException e){}
                 String metaRating = readElement(By.xpath("//*[@id=\"__layout\"]/div/div[2]/div[2]/div[1]/div/div/div[2]/"
                                                     +"div[3]/div[2]/div[1]/div/div[1]/div[2]/div/div/span"), Duration.ofSeconds(3));
                 String rating = readElement(By.xpath("//*[@id=\"__layout\"]/div/div[2]/div[2]/div[1]/div/div/div[2]/"
@@ -242,19 +226,14 @@ public class DataExtractor {
                 crtRecord.dump(writer);
             }
             catch(Exception e){
-                System.out.println(String.format("exception during FW extracting \'%s\': %s", movie, e));
+                System.out.println(String.format("exception during MC extracting \'%s\': %s", movie, e));
 
                 MovieRecord crtRecord = new MovieRecord.Builder().setTitle(movie)
                                                                  .build();
                 crtRecord.dump(writer);
             }
 
-            try{
-                Thread.sleep(1_000);
-            }
-            catch(InterruptedException e){
-
-            }
+            try{Thread.sleep(2_000);}catch(InterruptedException e){}
             
         }
 

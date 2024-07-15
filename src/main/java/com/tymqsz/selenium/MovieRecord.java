@@ -29,6 +29,26 @@ public class MovieRecord implements Comparable<MovieRecord> {
     }
 
     @Override
+    public String toString(){
+        StringBuilder builder = new StringBuilder();
+
+        builder.append("title: ").append(title).append("; ");
+        builder.append("year: ").append(year).append("; ");
+        builder.append("genre: ").append(genre).append("; ");
+        builder.append("length: ").append(length).append("; ");
+        builder.append("director: ").append(director).append("; ");
+        builder.append("cast: ").append(cast).append("; ");
+        builder.append("imdbRating: ").append(imdbRating).append("; ");
+        builder.append("rtRating: ").append(rtRating).append("; ");
+        builder.append("mcRating: ").append(mcRating).append("; ");
+        builder.append("imdbMetaRating: ").append(imdbMetaRating).append("; ");
+        builder.append("rtMetaRating: ").append(rtMetaRating).append("; ");
+        builder.append("mcMetaRating: ").append(mcMetaRating).append("; ");
+        
+        return builder.toString();
+    }
+
+    @Override
     public int compareTo(MovieRecord other) {
         return this.title.compareTo(other.title);
     }
@@ -169,7 +189,7 @@ public class MovieRecord implements Comparable<MovieRecord> {
         return rtRating;
     }
 
-    public String getFwRating() {
+    public String getMcRating() {
         return mcRating;
     }
 
