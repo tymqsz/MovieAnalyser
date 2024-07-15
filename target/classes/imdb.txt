@@ -237,7 +237,7 @@ The Grapes of Wrath;1940;Drama;2h 9m;8.1;96;null;null;null;null;John Ford;Henry 
 Groundhog Day;1993;Comedy Drama Fantasy;1h 41m;8.0;72;null;null;null;null;Harold Ramis;Bill MurrayAndie MacDowellChris Elliott
 Amores Perros;2000;Drama Thriller;2h 34m;8.1;83;null;null;null;null;Alejandro G. Iñárritu;Emilio EchevarríaGael García BernalGoya Toledo
 The Iron Giant;1999;Animation Action Adventure;1h 26m;8.1;85;null;null;null;null;Brad Bird;Eli MarienthalHarry Connick Jr.Jennifer Aniston
-Rebecca;null;Tang Wei was born on 7 October 1979 in Wenzhou, Zhejiang, China. She is an actress, known for Lust, Caution (2007), Decision to Leave (2022) and Blackhat (2015). She has been married to Kim Tae-yong since 12 July 2014. They have one child.;Soundtrack;null;null;null;null;null;null;null;null
+Rebecca;1940;Drama Mystery Romance;2h 10m;8.1;null;null;null;null;Alfret Hitchcock;Laurence OlivierJoan FontaineGeorge Sanders
 Cool Hand Luke;1967;Crime Drama;2h 7m;8.1;92;null;null;null;null;Stuart Rosenberg;Paul NewmanGeorge KennedyStrother Martin
 The Help;2011;Drama;2h 26m;8.1;62;null;null;null;null;Tate Taylor;Viola DavisEmma StoneOctavia Spencer
 It Happened One Night;1934;Comedy Romance;1h 45m;8.1;87;null;null;null;null;Frank Capra;Clark GableClaudette ColbertWalter Connolly
@@ -246,5 +246,5 @@ Aladdin;2019;Adventure Comedy Family;2h 8m;6.9;53;null;null;null;null;Guy Ritchi
 Dances with Wolves;1990;Adventure Drama Western;3h 1m;8.0;72;null;null;null;null;Kevin Costner;Kevin CostnerMary McDonnellGraham Greene
 Paris, Texas;1984;Drama;2h 25m;8.1;81;null;null;null;null;Wim Wenders;Harry Dean StantonNastassja KinskiDean Stockwell
 M;1931;Crime Mystery Thriller; 1h 39m;8.3;null;null;null;null;null;Fritz Lang;Thea von HarbouFritz LangEgon Jacobsohn
-1917;2019;1h 59m;Action Drama History;8.2;null;null;null;null;null;Sam Mendes;Dean-Charles ChapmanGeorge MacKayDaniel Mays
-Spotlight;2015;2h 9m;Biography Crime Drama;8.1;null;null;null;null;null;Tom McCarthy;Mark RuffaloMichael KeatonRachel McAdams
+1917;2019;Action Drama History;1h 59m;8.2;null;null;null;null;null;Sam Mendes;Dean-Charles ChapmanGeorge MacKayDaniel Mays
+Spotlight;2015;Biography Crime Drama;2h 9m;8.1;null;null;null;null;null;Tom McCarthy;Mark RuffaloMichael KeatonRachel McAdams
