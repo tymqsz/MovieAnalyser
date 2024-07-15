@@ -1,0 +1,250 @@
+The Shawshank Redemption;null;null;null;null;null;null;null;8.9;82;null;null
+The Godfather;null;null;null;null;null;null;null;9.3;100;null;null
+The Dark Knight;null;null;null;null;null;null;null;8.9;84;null;null
+The Godfather Part II;null;null;null;null;null;null;null;9.1;90;null;null
+12 Angry Men;null;null;null;null;null;null;null;8.6;97;null;null
+Schindler's List;null;null;null;null;null;null;null;8.7;95;null;null
+The Lord of the Rings: The Return of the King;null;null;null;null;null;null;null;8.9;94;null;null
+Pulp Fiction;null;null;null;null;null;null;null;8.9;95;null;null
+The Lord of the Rings: The Fellowship of the Ring;null;null;null;null;null;null;null;9.0;92;null;null
+The Good, the Bad and the Ugly;null;null;null;null;null;null;null;9.1;90;null;null
+Forrest Gump;null;null;null;null;null;null;null;7.8;82;null;null
+The Lord of the Rings: The Two Towers;null;null;null;null;null;null;null;9.0;87;null;null
+Fight Club;null;null;null;null;null;null;null;8.8;67;null;null
+Inception;null;null;null;null;null;null;null;8.8;74;null;null
+Star Wars: Episode V - The Empire Strikes Back;null;null;null;null;null;null;null;9.0;82;null;null
+The Matrix;null;null;null;null;null;null;null;8.9;73;null;null
+Goodfellas;null;null;null;null;null;null;null;8.7;92;null;null
+One Flew Over the Cuckoo's Nest;null;null;null;null;null;null;null;8.7;84;null;null
+Se7en;null;null;null;null;null;null;null;8.7;65;null;null
+Interstellar;null;null;null;null;null;null;null;8.8;74;null;null
+It's a Wonderful Life;null;null;null;null;null;null;null;8.4;89;null;null
+Seven Samurai;null;null;null;null;null;null;null;8.6;98;null;null
+The Silence of the Lambs;null;null;null;null;null;null;null;8.7;86;null;null
+Saving Private Ryan;null;null;null;null;null;null;null;8.7;91;null;null
+City of God;null;null;null;null;null;null;null;8.6;79;null;null
+Life Is Beautiful;null;null;null;null;null;null;null;7.6;58;null;null
+The Green Mile;null;null;null;null;null;null;null;8.3;61;null;null
+Terminator 2: Judgment Day;null;null;null;null;null;null;null;8.8;75;null;null
+Star Wars: Episode IV - A New Hope;null;null;null;null;null;null;null;8.8;90;null;null
+Back to the Future;null;null;null;null;null;null;null;8.6;87;null;null
+Spirited Away;null;null;null;null;null;null;null;8.8;96;null;null
+The Pianist;null;null;null;null;null;null;null;8.0;85;null;null
+Dune: Part Two;null;null;null;null;null;null;null;8.3;79;null;null
+Parasite;null;null;null;null;null;null;null;8.7;97;null;null
+Psycho;null;null;null;null;null;null;null;8.6;97;null;null
+Gladiator;null;null;null;null;null;null;null;8.7;67;null;null
+Spider-Man: Across the Spider-Verse;null;null;null;null;null;null;null;8.3;86;null;null
+The Lion King;null;null;null;null;null;null;null;8.7;88;null;null
+The Departed;null;null;null;null;null;null;null;6.8;85;null;null
+Léon: The Professional;null;null;null;null;null;null;null;8.5;64;null;null
+American History X;null;null;null;null;null;null;null;8.4;62;null;null
+Whiplash;null;null;null;null;null;null;null;8.8;89;null;null
+The Prestige;null;null;null;null;null;null;null;8.6;66;null;null
+Grave of the Fireflies;null;null;null;null;null;null;null;8.7;94;null;null
+Harakiri;null;null;null;null;null;null;null;7.8;85;null;null
+The Usual Suspects;null;null;null;null;null;null;null;8.7;76;null;null
+Casablanca;null;null;null;null;null;null;null;8.8;100;null;null
+The Intouchables;null;null;null;null;null;null;null;8.2;57;null;null
+Cinema Paradiso;null;null;null;null;null;null;null;8.6;80;null;null
+Modern Times;null;null;null;null;null;null;null;8.5;96;null;null
+Rear Window;null;null;null;null;null;null;null;8.7;100;null;null
+Once Upon a Time in the West;null;null;null;null;null;null;null;8.3;82;null;null
+Alien;null;null;null;null;null;null;null;9.0;89;null;null
+City Lights;null;null;null;null;null;null;null;8.6;99;null;null
+Django Unchained;null;null;null;null;null;null;null;8.6;81;null;null
+Apocalypse Now;null;null;null;null;null;null;null;8.7;94;null;null
+Memento;null;null;null;null;null;null;null;8.6;83;null;null
+WALL·E;null;null;null;null;null;null;null;8.7;95;null;null
+12th Fail;null;null;null;null;null;null;null;5.3;47;null;null
+Raiders of the Lost Ark;null;null;null;null;null;null;null;8.5;86;null;null
+The Lives of Others;null;null;null;null;null;null;null;8.4;89;null;null
+Sunset Boulevard;null;null;null;null;null;null;null;8.5;94;null;null
+Avengers: Infinity War;null;null;null;null;null;null;null;8.4;68;null;null
+Paths of Glory;null;null;null;null;null;null;null;8.5;90;null;null
+Spider-Man: Into the Spider-Verse;null;null;null;null;null;null;null;8.3;87;null;null
+Witness for the Prosecution;null;null;null;null;null;null;null;null;8.6;76;null
+The Shining;null;null;null;null;null;null;null;8.7;68;null;null
+The Great Dictator;null;null;null;null;null;null;null;6.4;58;null;null
+Aliens;null;null;null;null;null;null;null;9.1;84;null;null
+Inglourious Basterds;null;null;null;null;null;null;null;8.1;69;null;null
+The Dark Knight Rises;null;null;null;null;null;null;null;8.9;78;null;null
+Coco;null;null;null;null;null;null;null;8.3;81;null;null
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;null;null;null;null;null;null;null;8.3;97;null;null
+Amadeus;null;null;null;null;null;null;null;8.3;87;null;null
+Oldboy;null;null;null;null;null;null;null;8.4;78;null;null
+American Beauty;null;null;null;null;null;null;null;8.8;84;null;null
+Toy Story;null;null;null;null;null;null;null;8.8;96;null;null
+Avengers: Endgame;null;null;null;null;null;null;null;7.9;78;null;null
+Das Boot;null;null;null;null;null;null;null;7.1;85;null;null
+Braveheart;null;null;null;null;null;null;null;8.2;68;null;null
+Good Will Hunting;null;null;null;null;null;null;null;8.6;71;null;null
+Princess Mononoke;null;null;null;null;null;null;null;8.7;76;null;null
+Joker;null;null;null;null;null;null;null;8.7;59;null;null
+Your Name.;null;null;null;null;null;null;null;8.7;81;null;null
+High and Low;null;null;null;null;null;null;null;8.6;90;null;null
+Once Upon a Time in America;null;null;null;null;null;null;null;7.6;75;null;null
+3 Idiots;null;null;null;null;null;null;null;8.2;67;null;null
+Singin' in the Rain;null;null;null;null;null;null;null;8.7;99;null;null
+Capernaum;null;null;null;null;null;null;null;8.3;75;null;null
+Come and See;null;null;null;null;null;null;null;9.0;tbd;null;null
+Requiem for a Dream;null;null;null;null;null;null;null;8.6;71;null;null
+Toy Story 3;null;null;null;null;null;null;null;8.7;92;null;null
+Star Wars: Episode VI - Return of the Jedi;null;null;null;null;null;null;null;8.4;58;null;null
+Eternal Sunshine of the Spotless Mind;null;null;null;null;null;null;null;8.7;89;null;null
+The Hunt;null;null;null;null;null;null;null;8.4;77;null;null
+2001: A Space Odyssey;null;null;null;null;null;null;null;8.2;84;null;null
+Reservoir Dogs;null;null;null;null;null;null;null;8.6;81;null;null
+Ikiru;null;null;null;null;null;null;null;8.5;92;null;null
+Oppenheimer;null;null;null;null;null;null;null;8.4;90;null;null
+Lawrence of Arabia;null;null;null;null;null;null;null;8.6;100;null;null
+The Apartment;null;null;null;null;null;null;null;8.1;94;null;null
+Incendies;null;null;null;null;null;null;null;8.2;80;null;null
+North by Northwest;null;null;null;null;null;null;null;8.2;98;null;null
+Citizen Kane;null;null;null;null;null;null;null;8.3;100;null;null
+M;null;null;null;null;null;null;null;null;null;null;null
+Scarface;null;null;null;null;null;null;null;8.7;65;null;null
+Double Indemnity;null;null;null;null;null;null;null;8.6;95;null;null
+Vertigo;null;null;null;null;null;null;null;8.6;100;null;null
+Full Metal Jacket;null;null;null;null;null;null;null;7.4;78;null;null
+Amélie;null;null;null;null;null;null;null;7.4;70;null;null
+Heat;null;null;null;null;null;null;null;8.6;76;null;null
+Up;null;null;null;null;null;null;null;8.6;88;null;null
+A Clockwork Orange;null;null;null;null;null;null;null;7.2;77;null;null
+To Kill a Mockingbird;null;null;null;null;null;null;null;8.6;88;null;null
+A Separation;null;null;null;null;null;null;null;8.7;95;null;null
+The Sting;null;null;null;null;null;null;null;8.1;83;null;null
+Indiana Jones and the Last Crusade;null;null;null;null;null;null;null;8.5;65;null;null
+Die Hard;null;null;null;null;null;null;null;5.8;72;null;null
+Like Stars on Earth;null;null;null;null;null;null;null;null;null;null;null
+Metropolis;null;null;null;null;null;null;null;7.1;75;null;null
+Snatch;null;null;null;null;null;null;null;8.6;55;null;null
+1917;null;null;null;null;null;null;null;8.3;78;null;null
+L.A. Confidential;null;null;null;null;null;null;null;8.6;91;null;null
+Bicycle Thieves;null;null;null;null;null;null;null;tbd;tbd;null;null
+Hamilton;null;null;null;null;null;null;null;7.5;88;null;null
+Taxi Driver;null;null;null;null;null;null;null;7.7;94;null;null
+Downfall;null;null;null;null;null;null;null;8.5;82;null;null
+Dangal;null;null;null;null;null;null;null;8.2;tbd;null;null
+For a Few Dollars More;null;null;null;null;null;null;null;8.4;74;null;null
+Batman Begins;null;null;null;null;null;null;null;8.3;70;null;null
+The Wolf of Wall Street;null;null;null;null;null;null;null;6.6;75;null;null
+Some Like It Hot;null;null;null;null;null;null;null;8.4;98;null;null
+Green Book;null;null;null;null;null;null;null;8.0;69;null;null
+The Kid;null;null;null;null;null;null;null;6.2;51;null;null
+The Father;null;null;null;null;null;null;null;8.5;88;null;null
+Judgment at Nuremberg;null;null;null;null;null;null;null;8.4;60;null;null
+The Truman Show;null;null;null;null;null;null;null;6.8;90;null;null
+All About Eve;null;null;null;null;null;null;null;8.7;98;null;null
+Shutter Island;null;null;null;null;null;null;null;8.7;63;null;null
+Top Gun: Maverick;null;null;null;null;null;null;null;7.4;78;null;null
+There Will Be Blood;null;null;null;null;null;null;null;8.7;93;null;null
+Casino;null;null;null;null;null;null;null;8.6;73;null;null
+Jurassic Park;null;null;null;null;null;null;null;8.7;68;null;null
+Ran;null;null;null;null;null;null;null;8.5;97;null;null
+The Sixth Sense;null;null;null;null;null;null;null;8.6;64;null;null
+Pan's Labyrinth;null;null;null;null;null;null;null;8.8;98;null;null
+Unforgiven;null;null;null;null;null;null;null;8.3;85;null;null
+No Country for Old Men;null;null;null;null;null;null;null;8.5;92;null;null
+A Beautiful Mind;null;null;null;null;null;null;null;8.1;72;null;null
+The Thing;null;null;null;null;null;null;null;8.6;57;null;null
+Kill Bill: Vol. 1;null;null;null;null;null;null;null;8.8;69;null;null
+The Treasure of the Sierra Madre;null;null;null;null;null;null;null;8.1;98;null;null
+Yojimbo;null;null;null;null;null;null;null;8.2;93;null;null
+Monty Python and the Holy Grail;null;null;null;null;null;null;null;8.5;91;null;null
+The Great Escape;null;null;null;null;null;null;null;8.3;86;null;null
+Finding Nemo;null;null;null;null;null;null;null;8.6;90;null;null
+Prisoners;null;null;null;null;null;null;null;8.5;70;null;null
+Howl's Moving Castle;null;null;null;null;null;null;null;8.6;82;null;null
+Rashomon;null;null;null;null;null;null;null;8.3;98;null;null
+The Elephant Man;null;null;null;null;null;null;null;8.6;78;null;null
+Dial M for Murder;null;null;null;null;null;null;null;8.2;75;null;null
+Chinatown;null;null;null;null;null;null;null;8.6;92;null;null
+Gone with the Wind;null;null;null;null;null;null;null;8.2;97;null;null
+Lock, Stock and Two Smoking Barrels;null;null;null;null;null;null;null;8.1;67;null;null
+V for Vendetta;null;null;null;null;null;null;null;7.7;62;null;null
+The Secret in Their Eyes;null;null;null;null;null;null;null;8.4;80;null;null
+Inside Out;null;null;null;null;null;null;null;8.6;94;null;null
+Raging Bull;null;null;null;null;null;null;null;7.1;90;null;null
+Three Billboards Outside Ebbing, Missouri;null;null;null;null;null;null;null;7.8;88;null;null
+Trainspotting;null;null;null;null;null;null;null;8.6;83;null;null
+The Bridge on the River Kwai;null;null;null;null;null;null;null;8.3;88;null;null
+Klaus;null;null;null;null;null;null;null;8.5;65;null;null
+Fargo;null;null;null;null;null;null;null;8.7;88;null;null
+Catch Me If You Can;null;null;null;null;null;null;null;8.5;75;null;null
+Spider-Man: No Way Home;null;null;null;null;null;null;null;8.4;71;null;null
+Warrior;null;null;null;null;null;null;null;8.5;71;null;null
+Gran Torino;null;null;null;null;null;null;null;7.5;73;null;null
+Harry Potter and the Deathly Hallows: Part 2;null;null;null;null;null;null;null;8.2;85;null;null
+My Neighbor Totoro;null;null;null;null;null;null;null;8.5;86;null;null
+Million Dollar Baby;null;null;null;null;null;null;null;7.5;86;null;null
+Children of Heaven;null;null;null;null;null;null;null;7.3;77;null;null
+12 Years a Slave;null;null;null;null;null;null;null;8.1;96;null;null
+Ben-Hur;null;null;null;null;null;null;null;8.6;90;null;null
+Blade Runner;null;null;null;null;null;null;null;8.7;84;null;null
+Before Sunrise;null;null;null;null;null;null;null;8.6;78;null;null
+Barry Lyndon;null;null;null;null;null;null;null;8.5;89;null;null
+The Grand Budapest Hotel;null;null;null;null;null;null;null;8.4;88;null;null
+Mad Max: Fury Road;null;null;null;null;null;null;null;8.5;90;null;null
+Gone Girl;null;null;null;null;null;null;null;8.2;79;null;null
+Hacksaw Ridge;null;null;null;null;null;null;null;8.3;71;null;null
+Dead Poets Society;null;null;null;null;null;null;null;8.3;79;null;null
+The Gold Rush;null;null;null;null;null;null;null;null;null;null;null
+Memories of Murder;null;null;null;null;null;null;null;8.4;82;null;null
+In the Name of the Father;null;null;null;null;null;null;null;8.1;84;null;null
+Wild Tales;null;null;null;null;null;null;null;8.5;77;null;null
+Monsters, Inc.;null;null;null;null;null;null;null;8.6;79;null;null
+The Deer Hunter;null;null;null;null;null;null;null;7.7;90;null;null
+The General;null;null;null;null;null;null;null;5.9;81;null;null
+Sherlock Jr.;null;null;null;null;null;null;null;null;null;null;null
+On the Waterfront;null;null;null;null;null;null;null;8.7;91;null;null
+How to Train Your Dragon;null;null;null;null;null;null;null;8.3;77;null;null
+Jaws;null;null;null;null;null;null;null;8.7;87;null;null
+Mary and Max;null;null;null;null;null;null;null;8.2;70;null;null
+The Third Man;null;null;null;null;null;null;null;8.4;97;null;null
+Ratatouille;null;null;null;null;null;null;null;8.6;96;null;null
+The Wages of Fear;null;null;null;null;null;null;null;8.3;85;null;null
+Wild Strawberries;null;null;null;null;null;null;null;8.2;88;null;null
+Mr. Smith Goes to Washington;null;null;null;null;null;null;null;8.2;73;null;null
+Ford v Ferrari;null;null;null;null;null;null;null;8.3;81;null;null
+Tokyo Story;null;null;null;null;null;null;null;8.1;100;null;null
+The Big Lebowski;null;null;null;null;null;null;null;8.5;71;null;null
+Rocky;null;null;null;null;null;null;null;8.7;70;null;null
+The Seventh Seal;null;null;null;null;null;null;null;8.4;88;null;null
+Room;null;null;null;null;null;null;null;8.3;86;null;null
+Logan;null;null;null;null;null;null;null;8.5;77;null;null
+Spotlight;null;null;null;null;null;null;null;8.1;93;null;null
+Hotel Rwanda;null;null;null;null;null;null;null;8.3;79;null;null
+The Terminator;null;null;null;null;null;null;null;7.7;84;null;null
+Platoon;null;null;null;null;null;null;null;8.3;92;null;null
+La haine;null;null;null;null;null;null;null;null;null;null;null
+The Passion of Joan of Arc;null;null;null;null;null;null;null;8.3;98;null;null
+Before Sunset;null;null;null;null;null;null;null;8.7;91;null;null
+Pirates of the Caribbean: The Curse of the Black Pearl;null;null;null;null;null;null;null;8.7;63;null;null
+The Best Years of Our Lives;null;null;null;null;null;null;null;8.4;93;null;null
+Jai Bhim;null;null;null;null;null;null;null;null;null;null;null
+The Exorcist;null;null;null;null;null;null;null;8.5;83;null;null
+Rush;null;null;null;null;null;null;null;8.4;74;null;null
+Network;null;null;null;null;null;null;null;8.3;83;null;null
+The Wizard of Oz;null;null;null;null;null;null;null;8.4;92;null;null
+Stand by Me;null;null;null;null;null;null;null;8.5;75;null;null
+The Incredibles;null;null;null;null;null;null;null;8.7;90;null;null
+Hachi: A Dog's Tale;null;null;null;null;null;null;null;8.7;90;null;null
+The Sound of Music;null;null;null;null;null;null;null;8.5;63;null;null
+The Handmaiden;null;null;null;null;null;null;null;8.5;85;null;null
+My Father and My Son;null;null;null;null;null;null;null;null;null;null;null
+Into the Wild;null;null;null;null;null;null;null;8.1;73;null;null
+To Be or Not to Be;null;null;null;null;null;null;null;8.0;86;null;null
+The Battle of Algiers;null;null;null;null;null;null;null;8.4;96;null;null
+The Grapes of Wrath;null;null;null;null;null;null;null;8.4;96;null;null
+Groundhog Day;null;null;null;null;null;null;null;8.5;72;null;null
+Amores Perros;null;null;null;null;null;null;null;5.3;83;null;null
+The Iron Giant;null;null;null;null;null;null;null;8.6;85;null;null
+Rebecca;null;null;null;null;null;null;null;8.5;86;null;null
+Cool Hand Luke;null;null;null;null;null;null;null;8.5;86;null;null
+The Help;null;null;null;null;null;null;null;7.8;62;null;null
+It Happened One Night;null;null;null;null;null;null;null;8.1;87;null;null
+Drishyam;null;null;null;null;null;null;null;null;null;null;null
+Aladdin;null;null;null;null;null;null;null;8.6;86;null;null
+Dances with Wolves;null;null;null;null;null;null;null;8.4;72;null;null
+Paris, Texas;null;null;null;null;null;null;null;7.7;81;null;null

@@ -1,0 +1,250 @@
+The Shawshank Redemption;1994;Drama;2h 22m;9.3;82;null;null;null;null;Frank Darabont;Tim RobbinsMorgan FreemanBob Gunton
+The Godfather;1972;Crime Drama;2h 55m;9.2;100;null;null;null;null;Francis Ford Coppola;Marlon BrandoAl PacinoJames Caan
+The Dark Knight;2008;Action Crime Drama;2h 32m;9.0;84;null;null;null;null;Christopher Nolan;Christian BaleHeath LedgerAaron Eckhart
+The Godfather Part II;1974;Crime Drama;3h 22m;9.0;90;null;null;null;null;Francis Ford Coppola;Al PacinoRobert De NiroRobert Duvall
+12 Angry Men;1957;Crime Drama;1h 36m;9.0;97;null;null;null;null;Sidney Lumet;Henry FondaLee J. CobbMartin Balsam
+Schindler's List;1993;Biography Drama History;3h 15m;9.0;95;null;null;null;null;Steven Spielberg;Liam NeesonRalph FiennesBen Kingsley
+The Lord of the Rings: The Return of the King;2003;Action Adventure Drama;3h 21m;9.0;94;null;null;null;null;Peter Jackson;Elijah WoodViggo MortensenIan McKellen
+Pulp Fiction;1994;Crime Drama;2h 34m;8.9;95;null;null;null;null;Quentin Tarantino;John TravoltaUma ThurmanSamuel L. Jackson
+The Lord of the Rings: The Fellowship of the Ring;2001;Action Adventure Drama;2h 58m;8.9;92;null;null;null;null;Peter Jackson;Elijah WoodIan McKellenOrlando Bloom
+The Good, the Bad and the Ugly;1966;Adventure Drama Western;2h 58m;8.8;90;null;null;null;null;Sergio Leone;Clint EastwoodEli WallachLee Van Cleef
+Forrest Gump;1994;Drama Romance;2h 22m;8.8;82;null;null;null;null;Robert Zemeckis;Tom HanksRobin WrightGary Sinise
+The Lord of the Rings: The Two Towers;2002;Action Adventure Drama;2h 59m;8.8;87;null;null;null;null;Peter Jackson;Elijah WoodIan McKellenViggo Mortensen
+Fight Club;1999;Drama;2h 19m;8.8;67;null;null;null;null;David Fincher;Brad PittEdward NortonMeat Loaf
+Inception;2010;Action Adventure Sci-Fi;2h 28m;8.8;74;null;null;null;null;Christopher Nolan;Leonardo DiCaprioJoseph Gordon-LevittElliot Page
+Star Wars: Episode V - The Empire Strikes Back;1980;Action Adventure Fantasy;2h 4m;8.7;82;null;null;null;null;Irvin Kershner;Mark HamillHarrison FordCarrie Fisher
+The Matrix;1999;Action Sci-Fi;2h 16m;8.7;73;null;null;null;null;Lana WachowskiLilly Wachowski;Keanu ReevesLaurence FishburneCarrie-Anne Moss
+Goodfellas;1990;Biography Crime Drama;2h 25m;8.7;92;null;null;null;null;Martin Scorsese;Robert De NiroRay LiottaJoe Pesci
+One Flew Over the Cuckoo's Nest;1975;Drama;2h 13m;8.7;84;null;null;null;null;Milos Forman;Jack NicholsonLouise FletcherMichael Berryman
+Se7en;1995;Crime Drama Mystery;2h 7m;8.6;65;null;null;null;null;David Fincher;Morgan FreemanBrad PittKevin Spacey
+Interstellar;2014;Adventure Drama Sci-Fi;2h 49m;8.7;74;null;null;null;null;Christopher Nolan;Matthew McConaugheyAnne HathawayJessica Chastain
+It's a Wonderful Life;1946;Drama Family Fantasy;2h 10m;8.6;89;null;null;null;null;Frank Capra;James StewartDonna ReedLionel Barrymore
+Seven Samurai;1954;Action Drama;3h 27m;8.6;98;null;null;null;null;Akira Kurosawa;Toshirô MifuneTakashi ShimuraKeiko Tsushima
+The Silence of the Lambs;1991;Crime Drama Thriller;1h 58m;8.6;86;null;null;null;null;Jonathan Demme;Jodie FosterAnthony HopkinsScott Glenn
+Saving Private Ryan;1998;Drama War;2h 49m;8.6;91;null;null;null;null;Steven Spielberg;Tom HanksMatt DamonTom Sizemore
+City of God;2002;Crime Drama;2h 10m;8.6;79;null;null;null;null;Fernando MeirellesKátia Lund;Alexandre RodriguesLeandro FirminoMatheus Nachtergaele
+Life Is Beautiful;1997;Comedy Drama Romance;1h 56m;8.6;58;null;null;null;null;Roberto Benigni;Roberto BenigniNicoletta BraschiGiorgio Cantarini
+The Green Mile;1999;Crime Drama Fantasy;3h 9m;8.6;61;null;null;null;null;Frank Darabont;Tom HanksMichael Clarke DuncanDavid Morse
+Terminator 2: Judgment Day;1991;Action Adventure Sci-Fi;2h 17m;8.6;75;null;null;null;null;James Cameron;Arnold SchwarzeneggerLinda HamiltonEdward Furlong
+Star Wars: Episode IV - A New Hope;1977;Action Adventure Fantasy;2h 1m;8.6;90;null;null;null;null;George Lucas;Mark HamillHarrison FordCarrie Fisher
+Back to the Future;1985;Adventure Comedy Sci-Fi;1h 56m;8.5;87;null;null;null;null;Robert Zemeckis;Michael J. FoxChristopher LloydLea Thompson
+Spirited Away;2001;Animation Adventure Family;2h 5m;8.6;96;null;null;null;null;Hayao Miyazaki;Daveigh ChaseSuzanne PleshetteMiyu Irino
+The Pianist;2002;Biography Drama Music;2h 30m;8.5;85;null;null;null;null;Roman Polanski;Adrien BrodyThomas KretschmannFrank Finlay
+Dune: Part Two;2024;Action Adventure Drama;2h 46m;8.6;79;null;null;null;null;Denis Villeneuve;Timothée ChalametZendayaRebecca Ferguson
+Parasite;2019;Drama Thriller;2h 12m;8.5;97;null;null;null;null;Bong Joon Ho;Song Kang-hoLee Sun-kyunCho Yeo-jeong
+Psycho;1960;Horror Mystery Thriller;1h 49m;8.5;97;null;null;null;null;Alfred Hitchcock;Anthony PerkinsJanet LeighVera Miles
+Gladiator;2000;Action Adventure Drama;2h 35m;8.5;67;null;null;null;null;Ridley Scott;Russell CroweJoaquin PhoenixConnie Nielsen
+Spider-Man: Across the Spider-Verse;2023;Animation Action Adventure;2h 20m;8.6;86;null;null;null;null;Joaquim Dos SantosKemp PowersJustin K. Thompson;Shameik MooreHailee SteinfeldBrian Tyree Henry
+The Lion King;1994;Animation Adventure Drama;1h 28m;8.5;88;null;null;null;null;Roger AllersRob Minkoff;Matthew BroderickJeremy IronsJames Earl Jones
+The Departed;2006;Crime Drama Thriller;2h 31m;8.5;85;null;null;null;null;Martin Scorsese;Leonardo DiCaprioMatt DamonJack Nicholson
+Léon: The Professional;1994;Action Crime Drama;1h 50m;8.5;64;null;null;null;null;Luc Besson;Jean RenoGary OldmanNatalie Portman
+American History X;1998;Crime Drama;1h 59m;8.5;62;null;null;null;null;Tony Kaye;Edward NortonEdward FurlongBeverly D'Angelo
+Whiplash;2014;Drama Music;1h 46m;8.5;89;null;null;null;null;Damien Chazelle;Miles TellerJ.K. SimmonsMelissa Benoist
+The Prestige;2006;Drama Mystery Sci-Fi;2h 10m;8.5;66;null;null;null;null;Christopher Nolan;Christian BaleHugh JackmanScarlett Johansson
+Grave of the Fireflies;1988;Animation Drama War;1h 29m;8.5;94;null;null;null;null;Isao Takahata;Tsutomu TatsumiAyano ShiraishiAkemi Yamaguchi
+Harakiri;1962;Action Drama Mystery;2h 13m;8.6;85;null;null;null;null;Masaki Kobayashi;Tatsuya NakadaiAkira IshihamaShima Iwashita
+The Usual Suspects;1995;Crime Drama Mystery;1h 46m;8.5;76;null;null;null;null;Bryan Singer;Kevin SpaceyGabriel ByrneChazz Palminteri
+Casablanca;1942;Drama Romance War;1h 42m;8.5;100;null;null;null;null;Michael Curtiz;Humphrey BogartIngrid BergmanPaul Henreid
+The Intouchables;2011;Comedy Drama;1h 52m;8.5;57;null;null;null;null;Olivier NakacheÉric Toledano;François CluzetOmar SyAnne Le Ny
+Cinema Paradiso;1988;Drama Romance;2h 54m;8.5;80;null;null;null;null;Giuseppe Tornatore;Philippe NoiretEnzo CannavaleAntonella Attili
+Modern Times;1936;Comedy Drama Romance;1h 27m;8.5;96;null;null;null;null;Charles Chaplin;Charles ChaplinPaulette GoddardHenry Bergman
+Rear Window;1954;Mystery Thriller;1h 52m;8.5;100;null;null;null;null;Alfred Hitchcock;James StewartGrace KellyWendell Corey
+Once Upon a Time in the West;1968;Drama Western;2h 46m;8.5;82;null;null;null;null;Sergio Leone;Henry FondaCharles BronsonClaudia Cardinale
+Alien;1979;Horror Sci-Fi;1h 57m;8.5;89;null;null;null;null;Ridley Scott;Sigourney WeaverTom SkerrittJohn Hurt
+City Lights;1931;Comedy Drama Romance;1h 27m;8.5;99;null;null;null;null;Charles Chaplin;Charles ChaplinVirginia CherrillFlorence Lee
+Django Unchained;2012;Comedy Drama Western;2h 45m;8.5;81;null;null;null;null;Quentin Tarantino;Jamie FoxxChristoph WaltzLeonardo DiCaprio
+Apocalypse Now;1979;Drama Mystery War;2h 27m;8.4;94;null;null;null;null;Francis Ford Coppola;Martin SheenMarlon BrandoRobert Duvall
+Memento;2000;Mystery Thriller;1h 53m;8.4;83;null;null;null;null;Christopher Nolan;Guy PearceCarrie-Anne MossJoe Pantoliano
+WALL·E;2008;Animation Adventure Family;1h 38m;8.4;95;null;null;null;null;Andrew Stanton;Ben BurttElissa KnightJeff Garlin
+12th Fail;2023;Biography Drama;2h 27m;8.9;null;null;null;null;null;Vidhu Vinod Chopra;Vikrant MasseyMedha ShankrAnant Joshi
+Raiders of the Lost Ark;1981;Action Adventure;1h 55m;8.4;86;null;null;null;null;Steven Spielberg;Harrison FordKaren AllenPaul Freeman
+The Lives of Others;2006;Drama Mystery Thriller;2h 17m;8.4;89;null;null;null;null;Florian Henckel von Donnersmarck;Ulrich MüheMartina GedeckSebastian Koch
+Sunset Boulevard;1950;Drama Film-Noir;1h 50m;8.4;94;null;null;null;null;Billy Wilder;William HoldenGloria SwansonErich von Stroheim
+Avengers: Infinity War;2018;Action Adventure Sci-Fi;2h 29m;8.4;68;null;null;null;null;Anthony RussoJoe Russo;Robert Downey Jr.Chris HemsworthMark Ruffalo
+Paths of Glory;1957;Drama War;1h 28m;8.4;90;null;null;null;null;Stanley Kubrick;Kirk DouglasRalph MeekerAdolphe Menjou
+Spider-Man: Into the Spider-Verse;2018;Animation Action Adventure;1h 57m;8.4;87;null;null;null;null;Bob PersichettiPeter RamseyRodney Rothman;Shameik MooreJake JohnsonHailee Steinfeld
+Witness for the Prosecution;1957;Crime Drama Mystery;1h 56m;8.4;76;null;null;null;null;Billy Wilder;Tyrone PowerMarlene DietrichCharles Laughton
+The Shining;1980;Drama Horror;2h 26m;8.4;68;null;null;null;null;Stanley Kubrick;Jack NicholsonShelley DuvallDanny Lloyd
+The Great Dictator;1940;Comedy Drama War;2h 5m;8.4;null;null;null;null;null;Charles Chaplin;Charles ChaplinPaulette GoddardJack Oakie
+Aliens;1986;Action Adventure Sci-Fi;2h 17m;8.4;84;null;null;null;null;James Cameron;Sigourney WeaverMichael BiehnCarrie Henn
+Inglourious Basterds;2009;Adventure Drama War;2h 33m;8.4;69;null;null;null;null;Quentin Tarantino;Brad PittDiane KrugerEli Roth
+The Dark Knight Rises;2012;Action Drama Thriller;2h 44m;8.4;78;null;null;null;null;Christopher Nolan;Christian BaleTom HardyAnne Hathaway
+Coco;2017;Animation Adventure Drama;1h 45m;8.4;81;null;null;null;null;Lee UnkrichAdrian Molina;Anthony GonzalezGael García BernalBenjamin Bratt
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;1964;Comedy War;1h 35m;8.3;97;null;null;null;null;Stanley Kubrick;Peter SellersGeorge C. ScottSterling Hayden
+Amadeus;1984;Biography Drama Music;2h 40m;8.4;87;null;null;null;null;Milos Forman;F. Murray AbrahamTom HulceElizabeth Berridge
+Oldboy;2003;Action Drama Mystery;2h;8.3;78;null;null;null;null;Park Chan-wook;Choi Min-sikYoo Ji-taeKang Hye-jeong
+American Beauty;1999;Drama;2h 2m;8.3;84;null;null;null;null;Sam Mendes;Kevin SpaceyAnnette BeningThora Birch
+Toy Story;1995;Animation Adventure Comedy;1h 21m;8.3;96;null;null;null;null;John Lasseter;Tom HanksTim AllenDon Rickles
+Avengers: Endgame;2019;Action Adventure Drama;3h 1m;8.4;78;null;null;null;null;Anthony RussoJoe Russo;Robert Downey Jr.Chris EvansMark Ruffalo
+Das Boot;1981;Drama War;2h 29m;8.4;85;null;null;null;null;Wolfgang Petersen;Jürgen ProchnowHerbert GrönemeyerKlaus Wennemann
+Braveheart;1995;Biography Drama War;2h 58m;8.3;68;null;null;null;null;Mel Gibson;Mel GibsonSophie MarceauPatrick McGoohan
+Good Will Hunting;1997;Drama Romance;2h 6m;8.3;71;null;null;null;null;Gus Van Sant;Robin WilliamsMatt DamonBen Affleck
+Princess Mononoke;1997;Animation Action Adventure;2h 14m;8.3;76;null;null;null;null;Hayao Miyazaki;Yôji MatsudaYuriko IshidaYûko Tanaka
+Joker;2019;Crime Drama Thriller;2h 2m;8.4;59;null;null;null;null;Todd Phillips;Joaquin PhoenixRobert De NiroZazie Beetz
+Your Name.;2016;Animation Drama Fantasy;1h 46m;8.4;81;null;null;null;null;Makoto Shinkai;Ryunosuke KamikiMone KamishiraishiRyo Narita
+High and Low;1963;Crime Drama Mystery;2h 23m;8.4;90;null;null;null;null;Akira Kurosawa;Toshirô MifuneYutaka SadaTatsuya Nakadai
+Once Upon a Time in America;1984;Crime Drama;3h 49m;8.3;75;null;null;null;null;Sergio Leone;Robert De NiroJames WoodsElizabeth McGovern
+3 Idiots;2009;Comedy Drama;2h 50m;8.4;67;null;null;null;null;Rajkumar Hirani;Aamir KhanMadhavanMona Singh
+Singin' in the Rain;1952;Comedy Musical Romance;1h 43m;8.3;99;null;null;null;null;Stanley DonenGene Kelly;Gene KellyDonald O'ConnorDebbie Reynolds
+Capernaum;2018;Drama;2h 6m;8.4;75;null;null;null;null;Nadine Labaki;Zain Al RafeeaYordanos ShiferawBoluwatife Treasure Bankole
+Come and See;1985;Drama Thriller War;2h 22m;8.4;null;null;null;null;null;Elem Klimov;Aleksey KravchenkoOlga MironovaLiubomiras Laucevicius
+Requiem for a Dream;2000;Drama;1h 42m;8.3;71;null;null;null;null;Darren Aronofsky;Ellen BurstynJared LetoJennifer Connelly
+Toy Story 3;2010;Animation Adventure Comedy;1h 43m;8.3;92;null;null;null;null;Lee Unkrich;Tom HanksTim AllenJoan Cusack
+Star Wars: Episode VI - Return of the Jedi;1983;Action Adventure Fantasy;2h 11m;8.3;58;null;null;null;null;Richard Marquand;Mark HamillHarrison FordCarrie Fisher
+Eternal Sunshine of the Spotless Mind;2004;Drama Romance Sci-Fi;1h 48m;8.3;89;null;null;null;null;Michel Gondry;Jim CarreyKate WinsletTom Wilkinson
+The Hunt;2012;Drama;1h 55m;8.3;77;null;null;null;null;Thomas Vinterberg;Mads MikkelsenThomas Bo LarsenAnnika Wedderkopp
+2001: A Space Odyssey;1968;Adventure Sci-Fi;2h 29m;8.3;84;null;null;null;null;Stanley Kubrick;Keir DulleaGary LockwoodWilliam Sylvester
+Reservoir Dogs;1992;Crime Thriller;1h 39m;8.3;81;null;null;null;null;Quentin Tarantino;Harvey KeitelTim RothMichael Madsen
+Ikiru;1952;Drama;2h 23m;8.3;92;null;null;null;null;Akira Kurosawa;Takashi ShimuraNobuo KanekoShin'ichi Himori
+Oppenheimer;2023;Biography Drama History;3h;8.3;90;null;null;null;null;Christopher Nolan;Cillian MurphyEmily BluntMatt Damon
+Lawrence of Arabia;1962;Adventure Biography Drama;3h 38m;8.3;100;null;null;null;null;David Lean;Peter O'TooleAlec GuinnessAnthony Quinn
+The Apartment;1960;Comedy Drama Romance;2h 5m;8.3;94;null;null;null;null;Billy Wilder;Jack LemmonShirley MacLaineFred MacMurray
+Incendies;2010;Drama Mystery War;2h 11m;8.3;80;null;null;null;null;Denis Villeneuve;Lubna AzabalMélissa Désormeaux-PoulinMaxim Gaudette
+North by Northwest;1959;Action Adventure Mystery;2h 16m;8.3;98;null;null;null;null;Alfred Hitchcock;Cary GrantEva Marie SaintJames Mason
+Citizen Kane;1941;Drama Mystery;1h 59m;8.3;100;null;null;null;null;Orson Welles;Orson WellesJoseph CottenDorothy Comingore
+Scarface;null;Scarface, a.k.a. Brad Jordan, was born and raised in Houston, Texas, in the South Park neighborhood. He is one of the rappers of the Geto Boys, and has recorded solo albums like Mr. Scarface is Back, The Diary, and The World is Yours. In real life, he was a high school dropout at 16, and suffered from manic depression. He is currently married and has five children. Not much is known of his age (either born in 1970 or 1972), and from magazine articles, his age might be a couple of years off.;Composer;null;null;null;null;null;null;null;null
+Double Indemnity;1944;Crime Drama Film-Noir;1h 47m;8.3;95;null;null;null;null;Billy Wilder;Fred MacMurrayBarbara StanwyckEdward G. Robinson
+Vertigo;1958;Mystery Romance Thriller;2h 8m;8.3;100;null;null;null;null;Alfred Hitchcock;James StewartKim NovakBarbara Bel Geddes
+Full Metal Jacket;1987;Drama War;1h 56m;8.3;78;null;null;null;null;Stanley Kubrick;Matthew ModineR. Lee ErmeyVincent D'Onofrio
+Amélie;2001;Comedy Romance;2h 2m;8.3;70;null;null;null;null;Jean-Pierre Jeunet;Audrey TautouMathieu KassovitzRufus
+Heat;1995;Action Crime Drama;2h 50m;8.3;76;null;null;null;null;Michael Mann;Al PacinoRobert De NiroVal Kilmer
+Up;2009;Animation Adventure Comedy;1h 36m;8.3;88;null;null;null;null;Pete DocterBob Peterson;Edward AsnerJordan NagaiJohn Ratzenberger
+A Clockwork Orange;1971;Crime Sci-Fi;2h 16m;8.3;77;null;null;null;null;Stanley Kubrick;Malcolm McDowellPatrick MageeMichael Bates
+To Kill a Mockingbird;1962;Crime Drama;2h 9m;8.3;88;null;null;null;null;Robert Mulligan;Gregory PeckJohn MegnaFrank Overton
+A Separation;2011;Drama;2h 3m;8.3;95;null;null;null;null;Asghar Farhadi;Payman MaadiLeila HatamiSareh Bayat
+The Sting;1973;Comedy Crime Drama;2h 9m;8.3;83;null;null;null;null;George Roy Hill;Paul NewmanRobert RedfordRobert Shaw
+Indiana Jones and the Last Crusade;1989;Action Adventure;2h 7m;8.2;65;null;null;null;null;Steven Spielberg;Harrison FordSean ConneryAlison Doody
+Die Hard;1988;Action Thriller;2h 12m;8.2;72;null;null;null;null;John McTiernan;Bruce WillisAlan RickmanBonnie Bedelia
+Like Stars on Earth;2007;Drama Family;2h 42m;8.3;null;null;null;null;null;Aamir KhanAmole Gupte;Darsheel SafaryAamir KhanTisca Chopra
+Metropolis;1927;Drama Sci-Fi;2h 33m;8.3;98;null;null;null;null;Fritz Lang;Brigitte HelmAlfred AbelGustav Fröhlich
+Snatch;2000;Comedy Crime;1h 42m;8.2;55;null;null;null;null;Guy Ritchie;Jason StathamBrad PittStephen Graham
+L.A. Confidential;1997;Crime Drama Mystery;2h 18m;8.2;91;null;null;null;null;Curtis Hanson;Kevin SpaceyRussell CroweGuy Pearce
+Bicycle Thieves;1948;Drama;1h 29m;8.3;null;null;null;null;null;Vittorio De Sica;Lamberto MaggioraniEnzo StaiolaLianella Carell
+Hamilton;2020;Biography Drama History;2h 40m;8.3;88;null;null;null;null;Thomas Kail;Lin-Manuel MirandaPhillipa SooLeslie Odom Jr.
+Taxi Driver;1976;Crime Drama;1h 54m;8.2;94;null;null;null;null;Martin Scorsese;Robert De NiroJodie FosterCybill Shepherd
+Downfall;2004;Biography Drama History;2h 36m;8.2;82;null;null;null;null;Oliver Hirschbiegel;Bruno GanzAlexandra Maria LaraUlrich Matthes
+Dangal;2016;Action Biography Drama;2h 41m;8.3;null;null;null;null;null;Nitesh Tiwari;Aamir KhanSakshi TanwarFatima Sana Shaikh
+For a Few Dollars More;1965;Drama Western;2h 12m;8.2;74;null;null;null;null;Sergio Leone;Clint EastwoodLee Van CleefGian Maria Volontè
+Batman Begins;2005;Action Crime Drama;2h 20m;8.2;70;null;null;null;null;Christopher Nolan;Christian BaleMichael CaineKen Watanabe
+The Wolf of Wall Street;2013;Biography Comedy Crime;3h;8.2;75;null;null;null;null;Martin Scorsese;Leonardo DiCaprioJonah HillMargot Robbie
+Some Like It Hot;1959;Comedy Music Romance;2h 1m;8.2;98;null;null;null;null;Billy Wilder;Marilyn MonroeTony CurtisJack Lemmon
+Green Book;2018;Biography Comedy Drama;2h 10m;8.2;69;null;null;null;null;Peter Farrelly;Viggo MortensenMahershala AliLinda Cardellini
+The Kid;2019;Biography Drama Western;1h 40m;5.9;51;null;null;null;null;Vincent D'Onofrio;Jake SchurLeila GeorgeChris Pratt
+The Father;2020;Drama Mystery;1h 37m;8.2;88;null;null;null;null;Florian Zeller;Anthony HopkinsOlivia ColmanMark Gatiss
+Judgment at Nuremberg;1961;Drama War;2h 59m;8.3;60;null;null;null;null;Stanley Kramer;Spencer TracyBurt LancasterRichard Widmark
+The Truman Show;1998;Comedy Drama;1h 43m;8.2;90;null;null;null;null;Peter Weir;Jim CarreyEd HarrisLaura Linney
+All About Eve;1950;Drama;2h 18m;8.2;98;null;null;null;null;Joseph L. Mankiewicz;Bette DavisAnne BaxterGeorge Sanders
+Shutter Island;2010;Drama Mystery Thriller;2h 18m;8.2;63;null;null;null;null;Martin Scorsese;Leonardo DiCaprioEmily MortimerMark Ruffalo
+Top Gun: Maverick;2022;Action Drama;2h 10m;8.2;78;null;null;null;null;Joseph Kosinski;Tom CruiseJennifer ConnellyMiles Teller
+There Will Be Blood;2007;Drama;2h 38m;8.2;93;null;null;null;null;Paul Thomas Anderson;Daniel Day-LewisPaul DanoCiarán Hinds
+Casino;1995;Crime Drama;2h 58m;8.2;73;null;null;null;null;Martin Scorsese;Robert De NiroSharon StoneJoe Pesci
+Jurassic Park;1993;Action Adventure Sci-Fi;2h 7m;8.2;68;null;null;null;null;Steven Spielberg;Sam NeillLaura DernJeff Goldblum
+Ran;1985;Action Drama War;2h 40m;8.2;97;null;null;null;null;Akira Kurosawa;Tatsuya NakadaiAkira TeraoJinpachi Nezu
+The Sixth Sense;1999;Drama Mystery Thriller;1h 47m;8.2;64;null;null;null;null;M. Night Shyamalan;Bruce WillisHaley Joel OsmentToni Collette
+Pan's Labyrinth;2006;Drama Fantasy War;1h 58m;8.2;98;null;null;null;null;Guillermo del Toro;Ivana BaqueroAriadna GilSergi López
+Unforgiven;1992;Drama Western;2h 10m;8.2;85;null;null;null;null;Clint Eastwood;Clint EastwoodGene HackmanMorgan Freeman
+No Country for Old Men;2007;Crime Drama Thriller;2h 2m;8.2;92;null;null;null;null;Ethan CoenJoel Coen;Tommy Lee JonesJavier BardemJosh Brolin
+A Beautiful Mind;2001;Biography Drama Mystery;2h 15m;8.2;72;null;null;null;null;Ron Howard;Russell CroweEd HarrisJennifer Connelly
+The Thing;1982;Horror Mystery Sci-Fi;1h 49m;8.2;57;null;null;null;null;John Carpenter;Kurt RussellWilford BrimleyKeith David
+Kill Bill: Vol. 1;2003;Action Crime Thriller;1h 51m;8.2;69;null;null;null;null;Quentin Tarantino;Uma ThurmanDavid CarradineDaryl Hannah
+The Treasure of the Sierra Madre;1948;Adventure Drama Western;2h 6m;8.2;98;null;null;null;null;John Huston;Humphrey BogartWalter HustonTim Holt
+Yojimbo;1961;Action Drama Thriller;1h 50m;8.2;93;null;null;null;null;Akira Kurosawa;Toshirô MifuneEijirô TônoTatsuya Nakadai
+Monty Python and the Holy Grail;1975;Adventure Comedy Fantasy;1h 31m;8.2;91;null;null;null;null;Terry GilliamTerry Jones;Graham ChapmanJohn CleeseEric Idle
+The Great Escape;1963;Adventure Drama Thriller;2h 52m;8.2;86;null;null;null;null;John Sturges;Steve McQueenJames GarnerRichard Attenborough
+Finding Nemo;2003;Animation Adventure Comedy;1h 40m;8.2;90;null;null;null;null;Andrew StantonLee Unkrich;Albert BrooksEllen DeGeneresAlexander Gould
+Prisoners;2013;Crime Drama Mystery;2h 33m;8.2;70;null;null;null;null;Denis Villeneuve;Hugh JackmanJake GyllenhaalViola Davis
+Howl's Moving Castle;2004;Animation Adventure Family;1h 59m;8.2;82;null;null;null;null;Hayao Miyazaki;Chieko BaishôTakuya KimuraTatsuya Gashûin
+Rashomon;1950;Crime Drama Mystery;1h 28m;8.2;98;null;null;null;null;Akira Kurosawa;Toshirô MifuneMachiko KyôMasayuki Mori
+The Elephant Man;1980;Biography Drama;2h 4m;8.2;78;null;null;null;null;David Lynch;Anthony HopkinsJohn HurtAnne Bancroft
+Dial M for Murder;1954;Crime Thriller;1h 45m;8.2;75;null;null;null;null;Alfred Hitchcock;Ray MillandGrace KellyRobert Cummings
+Chinatown;1974;Drama Mystery Thriller;2h 10m;8.1;92;null;null;null;null;Roman Polanski;Jack NicholsonFaye DunawayJohn Huston
+Gone with the Wind;1939;Drama Romance War;3h 58m;8.2;97;null;null;null;null;Victor FlemingGeorge CukorSam Wood;Clark GableVivien LeighThomas Mitchell
+Lock, Stock and Two Smoking Barrels;1998;Action Comedy Crime;1h 47m;8.1;67;null;null;null;null;Guy Ritchie;Jason FlemyngDexter FletcherNick Moran
+V for Vendetta;2005;Action Drama Sci-Fi;2h 12m;8.2;62;null;null;null;null;James McTeigue;Hugo WeavingNatalie PortmanRupert Graves
+The Secret in Their Eyes;2009;Drama Mystery Romance;2h 9m;8.2;80;null;null;null;null;Juan José Campanella;Ricardo DarínSoledad VillamilPablo Rago
+Inside Out;2015;Animation Adventure Comedy;1h 35m;8.1;94;null;null;null;null;Pete DocterRonnie Del Carmen;Amy PoehlerBill HaderLewis Black
+Raging Bull;1980;Biography Drama Sport;2h 9m;8.1;90;null;null;null;null;Martin Scorsese;Robert De NiroCathy MoriartyJoe Pesci
+Three Billboards Outside Ebbing, Missouri;2017;Comedy Crime Drama;1h 55m;8.1;88;null;null;null;null;Martin McDonagh;Frances McDormandWoody HarrelsonSam Rockwell
+Trainspotting;1996;Drama;1h 33m;8.1;83;null;null;null;null;Danny Boyle;Ewan McGregorEwen BremnerJonny Lee Miller
+The Bridge on the River Kwai;1957;Adventure Drama War;2h 41m;8.1;88;null;null;null;null;David Lean;William HoldenAlec GuinnessJack Hawkins
+Klaus;2019;Animation Adventure Comedy;1h 36m;8.2;65;null;null;null;null;Sergio PablosCarlos Martínez López;Jason SchwartzmanJ.K. SimmonsRashida Jones
+Fargo;null;Crime Drama Thriller;TV-MA;8.9;null;null;null;null;null;Noah Hawley;null
+Catch Me If You Can;2002;Biography Crime Drama;2h 21m;8.1;75;null;null;null;null;Steven Spielberg;Leonardo DiCaprioTom HanksChristopher Walken
+Spider-Man: No Way Home;2021;Action Adventure Fantasy;2h 28m;8.2;71;null;null;null;null;Jon Watts;Tom HollandZendayaBenedict Cumberbatch
+Warrior;null;Action Crime Drama;TV-MA;8.4;null;null;null;null;null;Jonathan Tropper;null
+Gran Torino;2008;Drama;1h 56m;8.1;73;null;null;null;null;Clint Eastwood;Clint EastwoodBee VangChristopher Carley
+Harry Potter and the Deathly Hallows: Part 2;2011;Adventure Family Fantasy;2h 10m;8.1;85;null;null;null;null;David Yates;Daniel RadcliffeEmma WatsonRupert Grint
+My Neighbor Totoro;1988;Animation Comedy Family;1h 26m;8.1;86;null;null;null;null;Hayao Miyazaki;Hitoshi TakagiNoriko HidakaChika Sakamoto
+Million Dollar Baby;2004;Drama Sport;2h 12m;8.1;86;null;null;null;null;Clint Eastwood;Hilary SwankClint EastwoodMorgan Freeman
+Children of Heaven;1997;Drama Family Sport;1h 29m;8.2;77;null;null;null;null;Majid Majidi;Mohammad Amir NajiAmir Farrokh HashemianBahare Seddiqi
+12 Years a Slave;2013;Biography Drama History;2h 14m;8.1;96;null;null;null;null;Steve McQueen;Chiwetel EjioforMichael Kenneth WilliamsMichael Fassbender
+Ben-Hur;1959;Adventure Drama;3h 32m;8.1;90;null;null;null;null;William Wyler;Charlton HestonJack HawkinsStephen Boyd
+Blade Runner;1982;Action Drama Sci-Fi;1h 57m;8.1;84;null;null;null;null;Ridley Scott;Harrison FordRutger HauerSean Young
+Before Sunrise;1995;Drama Romance;1h 41m;8.1;78;null;null;null;null;Richard Linklater;Ethan HawkeJulie DelpyAndrea Eckert
+Barry Lyndon;1975;Adventure Drama War;3h 5m;8.1;89;null;null;null;null;Stanley Kubrick;Ryan O'NealMarisa BerensonPatrick Magee
+The Grand Budapest Hotel;2014;Adventure Comedy Crime;1h 39m;8.1;88;null;null;null;null;Wes Anderson;Ralph FiennesF. Murray AbrahamMathieu Amalric
+Mad Max: Fury Road;2015;Action Adventure Sci-Fi;2h;8.1;90;null;null;null;null;George Miller;Tom HardyCharlize TheronNicholas Hoult
+Gone Girl;2014;Drama Mystery Thriller;2h 29m;8.1;79;null;null;null;null;David Fincher;Ben AffleckRosamund PikeNeil Patrick Harris
+Hacksaw Ridge;2016;Biography Drama History;2h 19m;8.1;71;null;null;null;null;Mel Gibson;Andrew GarfieldSam WorthingtonLuke Bracey
+Dead Poets Society;1989;Comedy Drama;2h 8m;8.1;79;null;null;null;null;Peter Weir;Robin WilliamsRobert Sean LeonardEthan Hawke
+The Gold Rush;1925;Adventure Comedy Drama;1h 35m;8.1;null;null;null;null;null;Charles Chaplin;Charles ChaplinMack SwainTom Murray
+Memories of Murder;2003;Crime Drama Mystery;2h 12m;8.1;82;null;null;null;null;Bong Joon Ho;Song Kang-hoKim Sang-kyungKim Roe-ha
+In the Name of the Father;1993;Biography Crime Drama;2h 13m;8.1;84;null;null;null;null;Jim Sheridan;Daniel Day-LewisPete PostlethwaiteAlison Crosbie
+Wild Tales;2014;Comedy Drama Thriller;2h 2m;8.1;77;null;null;null;null;Damián Szifron;Darío GrandinettiMaría MarullMónica Villa
+Monsters, Inc.;2001;Animation Adventure Comedy;1h 32m;8.1;79;null;null;null;null;Pete DocterDavid SilvermanLee Unkrich;Billy CrystalJohn GoodmanMary Gibbs
+The Deer Hunter;1978;Drama War;3h 3m;8.1;90;null;null;null;null;Michael Cimino;Robert De NiroChristopher WalkenJohn Cazale
+The General;1926;Action Adventure Comedy;1h 18m;8.1;null;null;null;null;null;Clyde BruckmanBuster Keaton;Buster KeatonMarion MackGlen Cavender
+Sherlock Jr.;1924;Action Comedy Romance;45m;8.2;null;null;null;null;null;Buster Keaton;Buster KeatonKathryn McGuireJoe Keaton
+On the Waterfront;1954;Crime Drama Thriller;1h 48m;8.1;91;null;null;null;null;Elia Kazan;Marlon BrandoKarl MaldenLee J. Cobb
+How to Train Your Dragon;2010;Animation Action Adventure;1h 38m;8.1;75;null;null;null;null;Dean DeBloisChris Sanders;Jay BaruchelGerard ButlerChristopher Mintz-Plasse
+Jaws;1975;Adventure Drama Thriller;2h 4m;8.1;87;null;null;null;null;Steven Spielberg;Roy ScheiderRobert ShawRichard Dreyfuss
+Mary and Max;2009;Animation Comedy Drama;1h 32m;8.1;null;null;null;null;null;Adam Elliot;Toni CollettePhilip Seymour HoffmanEric Bana
+The Third Man;1949;Film-Noir Mystery Thriller;1h 33m;8.1;97;null;null;null;null;Carol Reed;Orson WellesJoseph CottenAlida Valli
+Ratatouille;2007;Animation Adventure Comedy;1h 51m;8.1;96;null;null;null;null;Brad BirdJan Pinkava;Brad GarrettLou RomanoPatton Oswalt
+The Wages of Fear;2024;Action Adventure Drama;1h 44m;4.5;null;null;null;null;null;Julien Leclercq;Franck GastambideAlban LenoirSofiane Zermani
+Wild Strawberries;1957;Drama Romance;1h 31m;8.1;88;null;null;null;null;Ingmar Bergman;Victor SjöströmBibi AnderssonIngrid Thulin
+Mr. Smith Goes to Washington;1939;Comedy Drama;2h 9m;8.1;73;null;null;null;null;Frank Capra;James StewartJean ArthurClaude Rains
+Ford v Ferrari;2019;Action Biography Drama;2h 32m;8.1;81;null;null;null;null;James Mangold;Matt DamonChristian BaleJon Bernthal
+Tokyo Story;1953;Drama;2h 16m;8.1;100;null;null;null;null;Yasujirô Ozu;Chishû RyûChieko HigashiyamaSô Yamamura
+The Big Lebowski;1998;Comedy Crime;1h 57m;8.1;71;null;null;null;null;Joel CoenEthan Coen;Jeff BridgesJohn GoodmanJulianne Moore
+Rocky;1976;Drama Sport;2h;8.1;70;null;null;null;null;John G. Avildsen;Sylvester StalloneTalia ShireBurt Young
+The Seventh Seal;1957;Drama Fantasy;1h 36m;8.1;88;null;null;null;null;Ingmar Bergman;Max von SydowGunnar BjörnstrandBengt Ekerot
+Room;2015;Drama Thriller;1h 58m;8.1;86;null;null;null;null;Lenny Abrahamson;Brie LarsonJacob TremblaySean Bridgers
+Logan;2017;Action Drama Sci-Fi;2h 17m;8.1;77;null;null;null;null;James Mangold;Hugh JackmanPatrick StewartDafne Keen
+Hotel Rwanda;2004;Biography Drama History;2h 1m;8.1;79;null;null;null;null;Terry George;Don CheadleSophie OkonedoJoaquin Phoenix
+The Terminator;1984;Action Adventure Sci-Fi;1h 47m;8.1;84;null;null;null;null;James Cameron;Arnold SchwarzeneggerLinda HamiltonMichael Biehn
+Platoon;1986;Drama War;2h;8.1;92;null;null;null;null;Oliver Stone;Charlie SheenTom BerengerWillem Dafoe
+La haine;1995;Crime Drama;1h 38m;8.1;null;null;null;null;null;Mathieu Kassovitz;Vincent CasselHubert KoundéSaïd Taghmaoui
+The Passion of Joan of Arc;1928;Biography Drama History;1h 54m;8.1;98;null;null;null;null;Carl Theodor Dreyer;Maria FalconettiEugene SilvainAndré Berley
+Before Sunset;2004;Drama Romance;1h 20m;8.1;91;null;null;null;null;Richard Linklater;Ethan HawkeJulie DelpyVernon Dobtcheff
+Pirates of the Caribbean: The Curse of the Black Pearl;2003;Action Adventure Fantasy;2h 23m;8.1;63;null;null;null;null;Gore Verbinski;Johnny DeppGeoffrey RushOrlando Bloom
+The Best Years of Our Lives;1946;Drama Romance War;2h 50m;8.1;93;null;null;null;null;William Wyler;Myrna LoyDana AndrewsFredric March
+Jai Bhim;2021;Crime Drama Mystery;2h 44m;8.7;null;null;null;null;null;T.J. Gnanavel;SuriyaLijo Mol JoseManikandan K.
+The Exorcist;1973;Horror;2h 2m;8.1;83;null;null;null;null;William Friedkin;Ellen BurstynMax von SydowLinda Blair
+Rush;2013;Action Biography Drama;2h 3m;8.1;74;null;null;null;null;Ron Howard;Daniel BrühlChris HemsworthOlivia Wilde
+Network;1976;Drama;2h 1m;8.1;83;null;null;null;null;Sidney Lumet;Faye DunawayWilliam HoldenPeter Finch
+The Wizard of Oz;1939;Adventure Family Fantasy;1h 42m;8.1;92;null;null;null;null;Victor FlemingKing Vidor;Judy GarlandFrank MorganRay Bolger
+Stand by Me;1986;Adventure Comedy Drama;1h 29m;8.1;75;null;null;null;null;Rob Reiner;Wil WheatonRiver PhoenixCorey Feldman
+The Incredibles;2004;Animation Action Adventure;1h 55m;8.0;90;null;null;null;null;Brad Bird;Craig T. NelsonSamuel L. JacksonHolly Hunter
+Hachi: A Dog's Tale;2009;Biography Drama Family;1h 33m;8.1;null;null;null;null;null;Lasse Hallström;Richard GereJoan AllenCary-Hiroyuki Tagawa
+The Sound of Music;1965;Biography Drama Family;2h 52m;8.1;63;null;null;null;null;Robert Wise;Julie AndrewsChristopher PlummerEleanor Parker
+The Handmaiden;2016;Drama Romance Thriller;2h 25m;8.1;85;null;null;null;null;Park Chan-wook;Kim Min-heeHa Jung-wooCho Jin-woong
+My Father and My Son;2005;Drama Family;1h 52m;8.2;null;null;null;null;null;Çagan Irmak;Çetin TekindorFikret KuskanHümeyra
+Into the Wild;2007;Adventure Biography Drama;2h 28m;8.1;73;null;null;null;null;Sean Penn;Emile HirschVince VaughnCatherine Keener
+To Be or Not to Be;1942;Comedy Romance War;1h 39m;8.1;86;null;null;null;null;Ernst Lubitsch;Carole LombardJack BennyRobert Stack
+The Battle of Algiers;1966;Drama War;2h 1m;8.1;96;null;null;null;null;Gillo Pontecorvo;Brahim HadjadjJean MartinYacef Saadi
+The Grapes of Wrath;1940;Drama;2h 9m;8.1;96;null;null;null;null;John Ford;Henry FondaJane DarwellJohn Carradine
+Groundhog Day;1993;Comedy Drama Fantasy;1h 41m;8.0;72;null;null;null;null;Harold Ramis;Bill MurrayAndie MacDowellChris Elliott
+Amores Perros;2000;Drama Thriller;2h 34m;8.1;83;null;null;null;null;Alejandro G. Iñárritu;Emilio EchevarríaGael García BernalGoya Toledo
+The Iron Giant;1999;Animation Action Adventure;1h 26m;8.1;85;null;null;null;null;Brad Bird;Eli MarienthalHarry Connick Jr.Jennifer Aniston
+Rebecca;null;Tang Wei was born on 7 October 1979 in Wenzhou, Zhejiang, China. She is an actress, known for Lust, Caution (2007), Decision to Leave (2022) and Blackhat (2015). She has been married to Kim Tae-yong since 12 July 2014. They have one child.;Soundtrack;null;null;null;null;null;null;null;null
+Cool Hand Luke;1967;Crime Drama;2h 7m;8.1;92;null;null;null;null;Stuart Rosenberg;Paul NewmanGeorge KennedyStrother Martin
+The Help;2011;Drama;2h 26m;8.1;62;null;null;null;null;Tate Taylor;Viola DavisEmma StoneOctavia Spencer
+It Happened One Night;1934;Comedy Romance;1h 45m;8.1;87;null;null;null;null;Frank Capra;Clark GableClaudette ColbertWalter Connolly
+Drishyam;2015;Crime Drama Mystery;2h 43m;8.2;null;null;null;null;null;Nishikant Kamat;Ajay DevgnShriya SaranTabu
+Aladdin;2019;Adventure Comedy Family;2h 8m;6.9;53;null;null;null;null;Guy Ritchie;Will SmithMena MassoudNaomi Scott
+Dances with Wolves;1990;Adventure Drama Western;3h 1m;8.0;72;null;null;null;null;Kevin Costner;Kevin CostnerMary McDonnellGraham Greene
+Paris, Texas;1984;Drama;2h 25m;8.1;81;null;null;null;null;Wim Wenders;Harry Dean StantonNastassja KinskiDean Stockwell
+M;1931;Crime Mystery Thriller; 1h 39m;8.3;null;null;null;null;null;Fritz Lang;Thea von HarbouFritz LangEgon Jacobsohn
+1917;2019;1h 59m;Action Drama History;8.2;null;null;null;null;null;Sam Mendes;Dean-Charles ChapmanGeorge MacKayDaniel Mays
+Spotlight;2015;2h 9m;Biography Crime Drama;8.1;null;null;null;null;null;Tom McCarthy;Mark RuffaloMichael KeatonRachel McAdams
