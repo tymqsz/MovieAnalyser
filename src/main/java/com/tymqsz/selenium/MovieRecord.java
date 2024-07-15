@@ -57,18 +57,18 @@ public class MovieRecord implements Comparable<MovieRecord> {
         String fixedGenre = genre != null ? genre.replace("\n", " ") : null;
 
         StringBuilder builder = new StringBuilder();
-        builder.append(title).append(";");
-        builder.append(year).append(";");
-        builder.append(fixedGenre).append(";");
-        builder.append(length).append(";");
-        builder.append(imdbRating).append(";");
-        builder.append(imdbMetaRating).append(";");
-        builder.append(rtRating).append(";");
-        builder.append(rtMetaRating).append(";");
-        builder.append(mcRating).append(";");
-        builder.append(mcMetaRating).append(";");
-        builder.append(director).append(";");
-        builder.append(cast).append("\n");
+        builder.append("\"").append(title).append("\"").append(";");
+        builder.append("\"").append(year).append("\"").append(";");
+        builder.append("\"").append(fixedGenre).append("\"").append(";");
+        builder.append("\"").append(length).append("\"").append(";");
+        builder.append("\"").append(imdbRating).append("\"").append(";");
+        builder.append("\"").append(imdbMetaRating).append("\"").append(";");
+        builder.append("\"").append(rtRating).append("\"").append(";");
+        builder.append("\"").append(rtMetaRating).append("\"").append(";");
+        builder.append("\"").append(mcRating).append("\"").append(";");
+        builder.append("\"").append(mcMetaRating).append("\"").append(";");
+        builder.append("\"").append(director).append("\"").append(";");
+        builder.append("\"").append(cast).append("\"").append("\n");
 
         try {
             writer.write(builder.toString());
