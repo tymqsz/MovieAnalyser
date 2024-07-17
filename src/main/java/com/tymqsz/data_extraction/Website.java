@@ -1,4 +1,4 @@
-package com.tymqsz.selenium;
+package com.tymqsz.data_extraction;
 
 public enum Website {
     IMDB,

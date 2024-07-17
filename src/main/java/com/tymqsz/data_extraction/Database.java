@@ -1,4 +1,4 @@
-package com.tymqsz.selenium;
+package com.tymqsz.data_extraction;
 
 import java.io.*;
 import java.util.List;

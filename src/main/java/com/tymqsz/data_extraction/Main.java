@@ -1,4 +1,4 @@
-package com.tymqsz;
+package com.tymqsz.data_extraction;
 
 import java.io.IOException;
 
@@ -6,11 +6,9 @@ import java.io.IOException;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import com.tymqsz.selenium.*;
 
 
-
-public class App 
+public class Main 
 {
     public static void main( String[] args )
     {

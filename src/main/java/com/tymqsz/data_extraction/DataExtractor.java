@@ -1,4 +1,4 @@
-package com.tymqsz.selenium;
+package com.tymqsz.data_extraction;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.*;
