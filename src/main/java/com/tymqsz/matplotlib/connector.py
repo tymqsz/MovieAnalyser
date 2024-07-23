@@ -7,7 +7,7 @@ class Connector:
 
         conn_str = (
             "DRIVER={ODBC Driver 18 for SQL Server};"
-            "SERVER=192.168.0.109;"
+            "SERVER=xxx;"
             "PORT=1433;"
             "DATABASE=MovieDB;"
             "UID=test;"
