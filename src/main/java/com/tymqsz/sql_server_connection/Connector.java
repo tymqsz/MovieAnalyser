@@ -9,7 +9,7 @@ import java.sql.Connection;
 
 public class Connector {
     private Connection connection;
-    private String dbURL = "jdbc:sqlserver://192.168.0.109:1433;trustServerCertificate=true";
+    private String dbURL = "jdbc:sqlserver://xxx:1433;trustServerCertificate=true";
     private String user = "test";
     private String pass = "test";
     
