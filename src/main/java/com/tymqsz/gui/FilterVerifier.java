@@ -24,7 +24,6 @@ public class FilterVerifier {
         try{
             while(result.next()){
                 directorSet.add(result.getString(1));
-                System.out.println("adding: " + result.getString(1));
             }
         }
         catch(SQLException e){
