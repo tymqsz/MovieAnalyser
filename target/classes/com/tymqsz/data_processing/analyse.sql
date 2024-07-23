@@ -80,6 +80,3 @@ FROM MOVIES
 WHERE cast LIKE CONCAT('%', @actor, '%');
 
 SELECT * FROM MOVIES;
-
-/* biggest std dev from avgRAting between sites */
-/* correlation points ?*/

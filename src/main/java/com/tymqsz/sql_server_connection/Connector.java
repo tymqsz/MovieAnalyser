@@ -23,20 +23,17 @@ public class Connector {
         }        
     }
 
-    public ResultSet getTopMovies(int count, String genre){
+    public ResultSet getTopMovies(int count, String genre, String director, String max_minutes_length){
         ResultSet resultSet = null;
         try{
             Statement statement = connection.createStatement();
-            String query = String.format("SELECT TOP %d title, avgRating "
+            String query = String.format("SELECT TOP %d title, year, avgRating "
                                         +"FROM MOVIES "
-                                        +"WHERE genre LIKE CONCAT('%%', '%s', '%%') "
-                                        +"ORDER BY avgRating DESC;", count, genre);
-            resultSet = statement.executeQuery(query);
-
-            while (resultSet.next()) {
-                System.out.println(resultSet.getString(1) + " " + resultSet.getString(2));
-            }
-            
+                                        +"WHERE genre LIKE CONCAT('%%', '%s', '%%') AND "
+                                        +"director LIKE CONCAT('%%', '%s', '%%') AND "
+                                        +"[length (minutes)] < %s"
+                                        +"ORDER BY avgRating DESC;", count, genre, director, max_minutes_length);
+            resultSet = statement.executeQuery(query);            
         }
         catch(SQLException e){
             System.out.println(e);
@@ -66,5 +63,17 @@ public class Connector {
 
         return resultSet;
     }
-    
+
+    public ResultSet execQuery(String query){
+        ResultSet resultSet = null;
+        try{
+            Statement statement = connection.createStatement();
+            resultSet = statement.executeQuery(query);
+        }
+        catch(SQLException e){
+            System.out.println(e);
+        }
+
+        return resultSet;
+    }
 }
